@@ -1,0 +1,114 @@
+/* --- Formato para pantalla uno --- */
+#section1{
+color: #3A2E39;
+font-family: 'Bangers', cursive;
+font-size: larger;
+background: #F15152;
+width:811px;
+height:625px;
+padding: center;
+}
+
+div,#section1{
+padding:500px 500 px;
+}
+
+label{
+color: #EDB183 ;
+font-size: 30px 30px; 
+padding: auto;
+margin-right: auto;
+margin-left: auto;
+width: 500px}
+
+/* --- Formato para pantalla dos --- */
+
+#section2, body {
+background: #EDB183;
+font-family: 'Bangers', cursive;
+}
+
+#section2{
+color:#F15152;
+width:811px;
+height:625px;
+padding: center;
+}
+
+#welcome,p {
+	font-size: x-large;
+}
+
+/* --- Formato Pantalla 3 seccion 3 --- */
+#headerchi{
+width:811px;
+height:80px;
+padding: auto;
+background: #F15152;
+}
+
+h2{
+font-family: 'Bangers';
+font-size: xx-large;
+color: #3A2E39;
+width:811px;
+height:33px;
+padding-bottom: 10px;
+}
+
+h3{
+font-family: 'Gloria Hallelujah', cursive;
+font-size: medium;
+color: #EDB183;
+}
+
+/* --- Formato  pregunta --- */
+
+h4{
+font-family:'Montserrat', sans-serif;
+font-weight: lighter  ;
+font-size: medium;
+color: #C9DDFF;
+background: #1E555C;
+}
+
+/* --- Formato Respuesta --- */
+
+h5,body{
+  background: #1E555C;
+}
+
+h5{
+  font-family:'Montserrat', sans-serif;
+font-weight: lighter  ;
+font-size: medium;
+color: #C9DDFF;
+background: #1E555C;
+}
+
+button{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+#score_section{
+color: #3A2E39;
+font-family: 'Bangers', cursive;
+font-size: larger;
+background: #F15152;
+width:811px;
+height:625px;
+padding: center;
+align-content: center;
+}
+
+h6{
+color: #EDB183;
+font-size:x-large;
+align-content: center;
+}
+
+h7{
+color: #F4D8CD;
+font-size:xx-large;
+align-content:center;
+}
