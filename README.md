@@ -1,4 +1,6 @@
-# proyectoTrivia.squad11lmx.repl.coLunes 19 de Octubre
+# proyectoTrivia.squad11lmx.repl.co
+
+Lunes 19 de Octubre
 Pantallas bosquejo
 Decidimos el tema
 Preguntas para el prototipito
